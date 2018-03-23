@@ -10,3 +10,6 @@ REQUIREMENTS
 * DSI Connector(LCD Display)
 
 # Setup touch screen display
+* Driver installation  >> [![Download](	https://img.shields.io/github/downloads/atom/atom/total.svg)](http://www.waveshare.com/w/upload/4/4b/LCD-show-161112.tar.gz)
+* Opent
+
